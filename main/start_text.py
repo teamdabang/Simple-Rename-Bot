@@ -8,7 +8,7 @@ I can also DRM protected links transloaded from @@X1Xeditz
 
 If you found any issue please contact Support @X1XEDITZ**
 
-, reply_markup=InlineKeyboardMarkup(ST1))
+, reply_markup=InlineKeyboardMarkup(ST1)
 
 [ 
     [
