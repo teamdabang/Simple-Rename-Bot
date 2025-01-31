@@ -4,12 +4,11 @@ You can use me to Download DRM protected links to Telegram
 
 Here I support Direct DRM links of Zee5, Hotstar etc..................
 
-I can also DRM protected links transloaded from @JV 
+I can also DRM protected links transloaded from @@X1Xeditz
 
-If you found any issue please contact Support @JV**
+If you found any issue please contact Support @X1XEDITZ**
 
-
-**Bot Uptime:**  `{strftime("hours:%H minutes:%M and seconds:%S" , gmtime(time() - BOT_START_TIME))} ago`""", reply_markup=InlineKeyboardMarkup(ST1))
+, reply_markup=InlineKeyboardMarkup(ST1))
 
 [ 
     [
