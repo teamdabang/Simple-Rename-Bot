@@ -1,4 +1,4 @@
-Hello👋 {message.from_user.mention} I am one and only DRM Downloader Bot on Telegram.
+Hello {message.from_user.mention} I am one and only DRM Downloader Bot on Telegram.
 
 You can use me to Download DRM protected links to Telegram ⤵️
 
