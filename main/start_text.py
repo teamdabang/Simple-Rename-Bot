@@ -1,6 +1,6 @@
 Hello {message.from_user.mention} I am one and only DRM Downloader Bot on Telegram.
 
-You can use me to Download DRM protected links to Telegram ⤵️
+You can use me to Download DRM protected links to Telegram
 
 Here I support Direct DRM links of Zee5, Hotstar etc..................
 
